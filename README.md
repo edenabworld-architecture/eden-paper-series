@@ -58,9 +58,12 @@ This repository will organize future materials related to:
 * Damage-recovery protocols
 * Re-exposure schemas
 * STOP/ASK/ALLOW transition tables
-* Fragmentation comparison tables
-* arXiv candidate versions
-* supplementary materials for public research discussion
+* Eden protocol materials
+* State Card templates
+* Damage-recovery observation structures
+* STOP/ASK/ALLOW transition tables
+* future manuscript versions
+* public research notes
 
 ## Priority Development Path
 
