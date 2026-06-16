@@ -75,11 +75,11 @@ The first technical strengthening path will focus on:
 2. **Paper II: State Truth**
    STOP/ASK/ALLOW taxonomy, transition matrix, State Truth evaluation criteria.
 
-3. **Paper IV: Fragmentation Beyond Hallucination**
-   Comparison with hallucination, uncertainty, metacognition, and state-continuity failure.
+3. **Paper IV: Fragmentation Beyond Hallucination
+State-collapse analysis beyond output-level hallucination.
 
-4. **Paper VII: Alignment Before Existence?**
-   Alignment community version for LessWrong / Alignment Forum discussion.
+4. **Paper VII: Alignment Before Existence?
+A focused development of the distinction between external alignment and pre-existential state.
 
 ## Citation
 
