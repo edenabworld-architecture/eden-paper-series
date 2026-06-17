@@ -1,3 +1,60 @@
+## Public Access Map
+
+### Eden Paper Series
+
+**Title:** Eden Paper Series: State, Persistence, and Pre-Existential AI Phenomena
+**Author:** Chan-seong Park
+**Status:** Independent preprint series
+**License:** CC BY 4.0
+
+### Primary Public Record
+
+Zenodo DOI:
+https://doi.org/10.5281/zenodo.20711878
+
+This Zenodo record serves as the public base record for the Eden Paper Series.
+
+### OSF Project
+
+OSF project page:
+https://osf.io/hy6nu
+
+The OSF project serves as an open project page for the Eden Paper Series and related research materials.
+
+### GitHub Repository
+
+GitHub repository:
+https://github.com/edenabworld-architecture/eden-paper-series
+
+This repository serves as the public index and research hub for the Eden Paper Series.
+
+### Hugging Face Collection
+
+Hugging Face Collection:
+https://huggingface.co/collections/edenworldmodel93/eden-paper-series
+
+This collection gathers public Hugging Face materials related to the Eden Paper Series.
+
+### Hugging Face Paper V Space
+
+Paper V Space:
+https://huggingface.co/spaces/edenworldmodel93/eden-paper-v-damage-recovery-loops
+
+Paper V files:
+https://huggingface.co/spaces/edenworldmodel93/eden-paper-v-damage-recovery-loops/tree/main
+
+Paper V discussion:
+https://huggingface.co/spaces/edenworldmodel93/eden-paper-v-damage-recovery-loops/discussions/1
+
+### Paper V Direct Files
+
+PDF:
+https://huggingface.co/spaces/edenworldmodel93/eden-paper-v-damage-recovery-loops/resolve/main/PaperV_DamageRecoveryLoops_Draft02_SubmissionClean.pdf
+
+DOCX:
+https://huggingface.co/spaces/edenworldmodel93/eden-paper-v-damage-recovery-loops/resolve/main/PaperV_DamageRecoveryLoops_Draft02_SubmissionClean.docx
+
+
 # Eden Paper Series
 
 **Author:** Chan-seong Park
